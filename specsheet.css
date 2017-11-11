@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'DINPro-Light';
+  src: url('DINPro-Light.ttf');
+}
+body
+{
+	font-family:DINPro-Light;
+}
+.spec-title
+{
+	text-align:left;
+	margin-left:5%;
+}
+.spec-logo
+{
+	margin-left:5%;
+	max-width:200px;
+}
+.spec-drawing
+{
+	margin:0 auto;
+	max-width:700px;
+}
+.spec-drawing-container
+{
+	width:90%;
+	margin:0 auto;
+	text-align:center;
+}
+.spec-table
+{
+	width:90%;
+	margin:0 auto;
+}
+.spec-table td
+{
+	text-align:center;
+}
+.spec-table th
+{
+	background-color:#28a5de;
+}
